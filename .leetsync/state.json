@@ -1,17 +1,41 @@
 {
   "v": 1,
-  "updatedAt": 1789628289909,
+  "updatedAt": 1789628311308,
   "devices": {
     "fc6e9e10-a161-44ac-ba71-48299e24a1d5": {
-      "lastSeen": 1789628289467
+      "lastSeen": 1789628310769
     }
   },
-  "problems": {},
-  "achievements": {},
+  "problems": {
+    "771": {
+      "attempts": 2,
+      "bestMemory": "12.4 MB (Beats 57%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-17",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-17",
+      "folderName": "0771-Jewels-and-Stones",
+      "language": "Python",
+      "number": 771,
+      "slug": "jewels-and-stones",
+      "solutionCount": 1,
+      "tags": [
+        "Hash Table",
+        "String"
+      ],
+      "title": "Jewels and Stones",
+      "at": 1789628310769
+    }
+  },
+  "achievements": {
+    "first_blood": 1789628300892
+  },
   "sheets": {},
-  "days": [],
+  "days": [
+    "2026-09-17"
+  ],
   "bests": {
-    "longestStreak": 0,
-    "pushes": 0
+    "longestStreak": 1,
+    "pushes": 1
   }
 }
