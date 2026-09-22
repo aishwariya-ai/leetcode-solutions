@@ -1,12 +1,32 @@
 {
   "v": 1,
-  "updatedAt": 1790055058782,
+  "updatedAt": 1790055404786,
   "devices": {
     "fc6e9e10-a161-44ac-ba71-48299e24a1d5": {
-      "lastSeen": 1790055058378
+      "lastSeen": 1790055404382
     }
   },
   "problems": {
+    "69": {
+      "attempts": 1,
+      "bestMemory": "12.3 MB (Beats 90%)",
+      "bestRuntime": "3 ms (Beats 64%)",
+      "date": "2026-09-22",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-22",
+      "folderName": "0069-Sqrtx",
+      "language": "Python",
+      "number": 69,
+      "slug": "sqrtx",
+      "solutionCount": 1,
+      "tags": [
+        "Math",
+        "Binary Search",
+        "Newton's Method"
+      ],
+      "title": "Sqrt(x)",
+      "at": 1790055404382
+    },
     "231": {
       "attempts": 2,
       "bestMemory": "12.3 MB (Beats 55%)",
@@ -25,7 +45,7 @@
         "Recursion"
       ],
       "title": "Power of Two",
-      "at": 1790055058378
+      "at": 1790055404382
     },
     "263": {
       "attempts": 1,
@@ -43,7 +63,7 @@
         "Math"
       ],
       "title": "Ugly Number",
-      "at": 1790055058378
+      "at": 1790055404382
     },
     "383": {
       "attempts": 4,
@@ -63,7 +83,7 @@
         "Counting"
       ],
       "title": "Ransom Note",
-      "at": 1790055058378
+      "at": 1790055404382
     },
     "507": {
       "attempts": 2,
@@ -81,7 +101,7 @@
         "Math"
       ],
       "title": "Perfect Number",
-      "at": 1790055058378
+      "at": 1790055404382
     },
     "771": {
       "attempts": 3,
@@ -100,7 +120,7 @@
         "String"
       ],
       "title": "Jewels and Stones",
-      "at": 1790055058378
+      "at": 1790055404382
     },
     "1108": {
       "attempts": 1,
@@ -118,7 +138,7 @@
         "String"
       ],
       "title": "Defanging an IP Address",
-      "at": 1790055058378
+      "at": 1790055404382
     },
     "1281": {
       "attempts": 2,
@@ -136,7 +156,7 @@
         "Math"
       ],
       "title": "Subtract the Product and Sum of Digits of an Integer",
-      "at": 1790055058378
+      "at": 1790055404382
     },
     "1512": {
       "attempts": 1,
@@ -157,7 +177,7 @@
         "Counting"
       ],
       "title": "Number of Good Pairs",
-      "at": 1790055058378
+      "at": 1790055404382
     },
     "1678": {
       "attempts": 1,
@@ -175,7 +195,7 @@
         "String"
       ],
       "title": "Goal Parser Interpretation",
-      "at": 1790055058378
+      "at": 1790055404382
     },
     "3498": {
       "attempts": 1,
@@ -194,25 +214,27 @@
         "Simulation"
       ],
       "title": "Reverse Degree of a String",
-      "at": 1790055058378
+      "at": 1790055404382
     }
   },
   "achievements": {
     "bookworm": 1789712434760,
     "deca": 1789989658764,
     "easy_rider": 1789989658765,
-    "first_blood": 1789628300892
+    "first_blood": 1789628300892,
+    "on_fire": 1790055067689
   },
   "sheets": {},
   "days": [
     "2026-09-17",
     "2026-09-18",
     "2026-09-20",
-    "2026-09-21"
+    "2026-09-21",
+    "2026-09-22"
   ],
   "bests": {
-    "longestStreak": 2,
-    "pushes": 13
+    "longestStreak": 3,
+    "pushes": 14
   },
   "identity": {
     "installId": "b0d00a92-a15a-4bba-83c1-f36709670b53",
