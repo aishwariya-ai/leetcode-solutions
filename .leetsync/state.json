@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790572056063,
+  "updatedAt": 1790572182697,
   "devices": {
     "fc6e9e10-a161-44ac-ba71-48299e24a1d5": {
-      "lastSeen": 1790572055638
+      "lastSeen": 1790572182187
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Newton's Method"
       ],
       "title": "Sqrt(x)",
-      "at": 1790572055638
+      "at": 1790572182187
     },
     "231": {
       "attempts": 2,
@@ -45,7 +45,7 @@
         "Recursion"
       ],
       "title": "Power of Two",
-      "at": 1790572055638
+      "at": 1790572182187
     },
     "263": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Math"
       ],
       "title": "Ugly Number",
-      "at": 1790572055638
+      "at": 1790572182187
     },
     "342": {
       "attempts": 4,
@@ -83,7 +83,7 @@
         "Recursion"
       ],
       "title": "Power of Four",
-      "at": 1790572055638
+      "at": 1790572182187
     },
     "383": {
       "attempts": 4,
@@ -103,7 +103,7 @@
         "Counting"
       ],
       "title": "Ransom Note",
-      "at": 1790572055638
+      "at": 1790572182187
     },
     "507": {
       "attempts": 2,
@@ -121,7 +121,7 @@
         "Math"
       ],
       "title": "Perfect Number",
-      "at": 1790572055638
+      "at": 1790572182187
     },
     "771": {
       "attempts": 3,
@@ -140,7 +140,7 @@
         "String"
       ],
       "title": "Jewels and Stones",
-      "at": 1790572055638
+      "at": 1790572182187
     },
     "1108": {
       "attempts": 1,
@@ -158,7 +158,7 @@
         "String"
       ],
       "title": "Defanging an IP Address",
-      "at": 1790572055638
+      "at": 1790572182187
     },
     "1281": {
       "attempts": 2,
@@ -176,7 +176,7 @@
         "Math"
       ],
       "title": "Subtract the Product and Sum of Digits of an Integer",
-      "at": 1790572055638
+      "at": 1790572182187
     },
     "1351": {
       "attempts": 1,
@@ -196,7 +196,7 @@
         "Matrix"
       ],
       "title": "Count Negative Numbers in a Sorted Matrix",
-      "at": 1790572055638
+      "at": 1790572182187
     },
     "1512": {
       "attempts": 1,
@@ -217,7 +217,27 @@
         "Counting"
       ],
       "title": "Number of Good Pairs",
-      "at": 1790572055638
+      "at": 1790572182187
+    },
+    "1614": {
+      "attempts": 1,
+      "bestMemory": "12.2 MB (Beats 91%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-28",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-28",
+      "folderName": "1614-Maximum-Nesting-Depth-of-the-Parentheses",
+      "language": "Python",
+      "number": 1614,
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "solutionCount": 1,
+      "tags": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "at": 1790572182187
     },
     "1678": {
       "attempts": 1,
@@ -235,7 +255,7 @@
         "String"
       ],
       "title": "Goal Parser Interpretation",
-      "at": 1790572055638
+      "at": 1790572182187
     },
     "3498": {
       "attempts": 1,
@@ -254,7 +274,7 @@
         "Simulation"
       ],
       "title": "Reverse Degree of a String",
-      "at": 1790572055638
+      "at": 1790572182187
     },
     "3550": {
       "attempts": 2,
@@ -273,7 +293,7 @@
         "Math"
       ],
       "title": "Smallest Index With Digit Sum Equal to Index",
-      "at": 1790572055638
+      "at": 1790572182187
     }
   },
   "achievements": {
@@ -291,11 +311,12 @@
     "2026-09-21",
     "2026-09-22",
     "2026-09-24",
-    "2026-09-27"
+    "2026-09-27",
+    "2026-09-28"
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 18
+    "pushes": 19
   },
   "identity": {
     "installId": "b0d00a92-a15a-4bba-83c1-f36709670b53",
