@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790578247228,
+  "updatedAt": 1790578482659,
   "devices": {
     "fc6e9e10-a161-44ac-ba71-48299e24a1d5": {
-      "lastSeen": 1790578246704
+      "lastSeen": 1790578482188
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Newton's Method"
       ],
       "title": "Sqrt(x)",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "231": {
       "attempts": 2,
@@ -45,7 +45,7 @@
         "Recursion"
       ],
       "title": "Power of Two",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "263": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Math"
       ],
       "title": "Ugly Number",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "342": {
       "attempts": 4,
@@ -83,7 +83,7 @@
         "Recursion"
       ],
       "title": "Power of Four",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "383": {
       "attempts": 4,
@@ -103,7 +103,7 @@
         "Counting"
       ],
       "title": "Ransom Note",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "507": {
       "attempts": 2,
@@ -121,7 +121,7 @@
         "Math"
       ],
       "title": "Perfect Number",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "594": {
       "attempts": 1,
@@ -143,7 +143,25 @@
         "Counting"
       ],
       "title": "Longest Harmonious Subsequence",
-      "at": 1790578246704
+      "at": 1790578482188
+    },
+    "674": {
+      "attempts": 4,
+      "bestMemory": "13.2 MB (Beats 93%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-28",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-28",
+      "folderName": "0674-Longest-Continuous-Increasing-Subsequence",
+      "language": "Python",
+      "number": 674,
+      "slug": "longest-continuous-increasing-subsequence",
+      "solutionCount": 1,
+      "tags": [
+        "Array"
+      ],
+      "title": "Longest Continuous Increasing Subsequence",
+      "at": 1790578482188
     },
     "771": {
       "attempts": 3,
@@ -162,7 +180,7 @@
         "String"
       ],
       "title": "Jewels and Stones",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "1108": {
       "attempts": 1,
@@ -180,7 +198,7 @@
         "String"
       ],
       "title": "Defanging an IP Address",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "1281": {
       "attempts": 2,
@@ -198,7 +216,7 @@
         "Math"
       ],
       "title": "Subtract the Product and Sum of Digits of an Integer",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "1351": {
       "attempts": 1,
@@ -218,7 +236,7 @@
         "Matrix"
       ],
       "title": "Count Negative Numbers in a Sorted Matrix",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "1512": {
       "attempts": 1,
@@ -239,7 +257,7 @@
         "Counting"
       ],
       "title": "Number of Good Pairs",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "1614": {
       "attempts": 1,
@@ -259,7 +277,7 @@
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of the Parentheses",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "1678": {
       "attempts": 1,
@@ -277,7 +295,7 @@
         "String"
       ],
       "title": "Goal Parser Interpretation",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "3498": {
       "attempts": 1,
@@ -296,7 +314,7 @@
         "Simulation"
       ],
       "title": "Reverse Degree of a String",
-      "at": 1790578246704
+      "at": 1790578482188
     },
     "3550": {
       "attempts": 2,
@@ -315,7 +333,7 @@
         "Math"
       ],
       "title": "Smallest Index With Digit Sum Equal to Index",
-      "at": 1790578246704
+      "at": 1790578482188
     }
   },
   "achievements": {
@@ -338,7 +356,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 20
+    "pushes": 21
   },
   "identity": {
     "installId": "b0d00a92-a15a-4bba-83c1-f36709670b53",
