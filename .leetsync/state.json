@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790657815130,
+  "updatedAt": 1790657982917,
   "devices": {
     "fc6e9e10-a161-44ac-ba71-48299e24a1d5": {
-      "lastSeen": 1790657814671
+      "lastSeen": 1790657982190
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Newton's Method"
       ],
       "title": "Sqrt(x)",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "231": {
       "attempts": 2,
@@ -45,7 +45,7 @@
         "Recursion"
       ],
       "title": "Power of Two",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "263": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Math"
       ],
       "title": "Ugly Number",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "342": {
       "attempts": 4,
@@ -83,7 +83,7 @@
         "Recursion"
       ],
       "title": "Power of Four",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "383": {
       "attempts": 4,
@@ -103,7 +103,7 @@
         "Counting"
       ],
       "title": "Ransom Note",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "507": {
       "attempts": 2,
@@ -121,7 +121,7 @@
         "Math"
       ],
       "title": "Perfect Number",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "594": {
       "attempts": 1,
@@ -143,7 +143,7 @@
         "Counting"
       ],
       "title": "Longest Harmonious Subsequence",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "674": {
       "attempts": 4,
@@ -161,7 +161,7 @@
         "Array"
       ],
       "title": "Longest Continuous Increasing Subsequence",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "771": {
       "attempts": 3,
@@ -180,7 +180,7 @@
         "String"
       ],
       "title": "Jewels and Stones",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "1108": {
       "attempts": 1,
@@ -198,7 +198,7 @@
         "String"
       ],
       "title": "Defanging an IP Address",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "1281": {
       "attempts": 2,
@@ -216,7 +216,7 @@
         "Math"
       ],
       "title": "Subtract the Product and Sum of Digits of an Integer",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "1346": {
       "attempts": 2,
@@ -238,7 +238,7 @@
         "Sorting"
       ],
       "title": "Check If N and Its Double Exist",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "1351": {
       "attempts": 1,
@@ -258,7 +258,7 @@
         "Matrix"
       ],
       "title": "Count Negative Numbers in a Sorted Matrix",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "1512": {
       "attempts": 1,
@@ -279,7 +279,7 @@
         "Counting"
       ],
       "title": "Number of Good Pairs",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "1614": {
       "attempts": 1,
@@ -299,7 +299,7 @@
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of the Parentheses",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "1678": {
       "attempts": 1,
@@ -317,7 +317,7 @@
         "String"
       ],
       "title": "Goal Parser Interpretation",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "3498": {
       "attempts": 1,
@@ -336,7 +336,7 @@
         "Simulation"
       ],
       "title": "Reverse Degree of a String",
-      "at": 1790657814671
+      "at": 1790657982190
     },
     "3550": {
       "attempts": 2,
@@ -355,7 +355,27 @@
         "Math"
       ],
       "title": "Smallest Index With Digit Sum Equal to Index",
-      "at": 1790657814671
+      "at": 1790657982190
+    },
+    "4030": {
+      "attempts": 1,
+      "bestMemory": "12.4 MB (Beats 54%)",
+      "bestRuntime": "4 ms (Beats 56%)",
+      "date": "2026-09-29",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-29",
+      "folderName": "4030-Check-ASCII-Palindromic",
+      "language": "Python",
+      "number": 4030,
+      "slug": "check-ascii-palindromic",
+      "solutionCount": 1,
+      "tags": [
+        "Two Pointers",
+        "String",
+        "Bit Manipulation"
+      ],
+      "title": "Check ASCII Palindromic",
+      "at": 1790657982190
     }
   },
   "achievements": {
@@ -374,11 +394,12 @@
     "2026-09-22",
     "2026-09-24",
     "2026-09-27",
-    "2026-09-28"
+    "2026-09-28",
+    "2026-09-29"
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 22
+    "pushes": 23
   },
   "identity": {
     "installId": "b0d00a92-a15a-4bba-83c1-f36709670b53",
