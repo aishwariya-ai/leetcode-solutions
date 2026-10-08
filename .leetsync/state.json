@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791473974059,
+  "updatedAt": 1791474271245,
   "devices": {
     "fc6e9e10-a161-44ac-ba71-48299e24a1d5": {
-      "lastSeen": 1791473970448
+      "lastSeen": 1791474270442
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Container With Most Water",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "15": {
       "attempts": 2,
@@ -45,7 +45,7 @@
         "Sorting"
       ],
       "title": "3Sum",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "20": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parentheses",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "69": {
       "attempts": 1,
@@ -85,7 +85,7 @@
         "Newton's Method"
       ],
       "title": "Sqrt(x)",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "231": {
       "attempts": 2,
@@ -105,7 +105,7 @@
         "Recursion"
       ],
       "title": "Power of Two",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "263": {
       "attempts": 1,
@@ -123,7 +123,7 @@
         "Math"
       ],
       "title": "Ugly Number",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "342": {
       "attempts": 4,
@@ -143,7 +143,7 @@
         "Recursion"
       ],
       "title": "Power of Four",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "383": {
       "attempts": 4,
@@ -163,7 +163,7 @@
         "Counting"
       ],
       "title": "Ransom Note",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "507": {
       "attempts": 2,
@@ -181,7 +181,7 @@
         "Math"
       ],
       "title": "Perfect Number",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "594": {
       "attempts": 1,
@@ -203,7 +203,7 @@
         "Counting"
       ],
       "title": "Longest Harmonious Subsequence",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "674": {
       "attempts": 4,
@@ -221,7 +221,7 @@
         "Array"
       ],
       "title": "Longest Continuous Increasing Subsequence",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "771": {
       "attempts": 3,
@@ -240,7 +240,27 @@
         "String"
       ],
       "title": "Jewels and Stones",
-      "at": 1791473970448
+      "at": 1791474270442
+    },
+    "1021": {
+      "attempts": 1,
+      "bestMemory": "12.4 MB (Beats 64%)",
+      "bestRuntime": "7 ms (Beats 51%)",
+      "date": "2026-10-08",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-08",
+      "folderName": "1021-Remove-Outermost-Parentheses",
+      "language": "Python",
+      "number": 1021,
+      "slug": "remove-outermost-parentheses",
+      "solutionCount": 1,
+      "tags": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "title": "Remove Outermost Parentheses",
+      "at": 1791474270442
     },
     "1108": {
       "attempts": 1,
@@ -258,7 +278,7 @@
         "String"
       ],
       "title": "Defanging an IP Address",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "1281": {
       "attempts": 2,
@@ -276,7 +296,7 @@
         "Math"
       ],
       "title": "Subtract the Product and Sum of Digits of an Integer",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "1346": {
       "attempts": 2,
@@ -298,7 +318,7 @@
         "Sorting"
       ],
       "title": "Check If N and Its Double Exist",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "1351": {
       "attempts": 1,
@@ -318,7 +338,7 @@
         "Matrix"
       ],
       "title": "Count Negative Numbers in a Sorted Matrix",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "1512": {
       "attempts": 1,
@@ -339,7 +359,7 @@
         "Counting"
       ],
       "title": "Number of Good Pairs",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "1614": {
       "attempts": 1,
@@ -359,7 +379,7 @@
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of the Parentheses",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "1678": {
       "attempts": 1,
@@ -377,7 +397,7 @@
         "String"
       ],
       "title": "Goal Parser Interpretation",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "1688": {
       "attempts": 1,
@@ -396,7 +416,7 @@
         "Simulation"
       ],
       "title": "Count of Matches in Tournament",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "3498": {
       "attempts": 1,
@@ -415,7 +435,7 @@
         "Simulation"
       ],
       "title": "Reverse Degree of a String",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "3550": {
       "attempts": 2,
@@ -434,7 +454,7 @@
         "Math"
       ],
       "title": "Smallest Index With Digit Sum Equal to Index",
-      "at": 1791473970448
+      "at": 1791474270442
     },
     "4030": {
       "attempts": 1,
@@ -454,7 +474,7 @@
         "Bit Manipulation"
       ],
       "title": "Check ASCII Palindromic",
-      "at": 1791473970448
+      "at": 1791474270442
     }
   },
   "achievements": {
@@ -477,11 +497,12 @@
     "2026-09-29",
     "2026-09-30",
     "2026-10-01",
-    "2026-10-07"
+    "2026-10-07",
+    "2026-10-08"
   ],
   "bests": {
     "longestStreak": 5,
-    "pushes": 27
+    "pushes": 28
   },
   "identity": {
     "installId": "b0d00a92-a15a-4bba-83c1-f36709670b53",
