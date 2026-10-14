@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-26%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-23%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-3%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-27%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-24%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-3%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -37,6 +37,7 @@
 | 263 | [Ugly Number](problems/0263-Ugly-Number) | 🟩 Easy | `Python` | 2026-09-21 |
 | 342 | [Power of Four](problems/0342-Power-of-Four) | 🟩 Easy | `Python` | 2026-09-22 |
 | 383 | [Ransom Note](problems/0383-Ransom-Note) | 🟩 Easy | `Python` | 2026-09-18 |
+| 389 | [Find the Difference](problems/0389-Find-the-Difference) | 🟩 Easy | `Python` | 2026-10-14 |
 | 507 | [Perfect Number](problems/0507-Perfect-Number) | 🟩 Easy | `Python` | 2026-09-17 |
 | 594 | [Longest Harmonious Subsequence](problems/0594-Longest-Harmonious-Subsequence) | 🟩 Easy | `Python` | 2026-09-28 |
 | 674 | [Longest Continuous Increasing Subsequence](problems/0674-Longest-Continuous-Increasing-Subsequence) | 🟩 Easy | `Python` | 2026-09-28 |
