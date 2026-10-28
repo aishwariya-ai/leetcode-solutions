@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-41%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-35%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-42%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-36%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -38,12 +38,12 @@
 | 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `Python` | 2026-10-28 |
 | 2299 | [Strong Password Checker II](problems/2299-Strong-Password-Checker-II) | 🟩 Easy | `Python` | 2026-10-28 |
 | 2089 | [Find Target Indices After Sorting Array](problems/2089-Find-Target-Indices-After-Sorting-Array) | 🟩 Easy | `Python` | 2026-10-28 |
+| 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `Python` | 2026-10-28 |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](problems/1287-Element-Appearing-More-Than-25-In-Sorted-Array) | 🟩 Easy | `Python` | 2026-10-28 |
 | 374 | [Guess Number Higher or Lower](problems/0374-Guess-Number-Higher-or-Lower) | 🟩 Easy | `Python` | 2026-10-28 |
-| 349 | [Intersection of Two Arrays](problems/0349-Intersection-of-Two-Arrays) | 🟩 Easy | `Python` | 2026-10-28 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 35 solved</summary>
+<summary><strong>🟩 Easy</strong> — 36 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -69,6 +69,7 @@
 | 1346 | [Check If N and Its Double Exist](problems/1346-Check-If-N-and-Its-Double-Exist) | 🟩 Easy | `Python` | 2026-09-28 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](problems/1351-Count-Negative-Numbers-in-a-Sorted-Matrix) | 🟩 Easy | `Python` | 2026-09-27 |
 | 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `Python` | 2026-09-18 |
+| 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `Python` | 2026-10-28 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](problems/1614-Maximum-Nesting-Depth-of-the-Parentheses) | 🟩 Easy | `Python` | 2026-09-28 |
 | 1678 | [Goal Parser Interpretation](problems/1678-Goal-Parser-Interpretation) | 🟩 Easy | `Python` | 2026-09-18 |
 | 1688 | [Count of Matches in Tournament](problems/1688-Count-of-Matches-in-Tournament) | 🟩 Easy | `Python` | 2026-09-30 |
