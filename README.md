@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-31%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-28%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-3%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-32%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-28%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-4%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -53,6 +53,7 @@
 | 1678 | [Goal Parser Interpretation](problems/1678-Goal-Parser-Interpretation) | 🟩 Easy | `Python` | 2026-09-18 |
 | 1688 | [Count of Matches in Tournament](problems/1688-Count-of-Matches-in-Tournament) | 🟩 Easy | `Python` | 2026-09-30 |
 | 2089 | [Find Target Indices After Sorting Array](problems/2089-Find-Target-Indices-After-Sorting-Array) | 🟩 Easy | `Python` | 2026-10-28 |
+| 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `Python` | 2026-10-28 |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](problems/2441-Largest-Positive-Integer-That-Exists-With-Its-Negative) | 🟩 Easy | `Python` | 2026-10-12 |
 | 2486 | [Append Characters to String to Make Subsequence](problems/2486-Append-Characters-to-String-to-Make-Subsequence) | 🟧 Medium | `Python` | 2026-10-14 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](problems/2913-Subarrays-Distinct-Element-Sum-of-Squares-I) | 🟩 Easy | `Python` | 2026-10-15 |
