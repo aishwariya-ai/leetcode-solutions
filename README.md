@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-30%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-27%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-3%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-31%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-28%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-3%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -58,6 +58,7 @@
 | 2913 | [Subarrays Distinct Element Sum of Squares I](problems/2913-Subarrays-Distinct-Element-Sum-of-Squares-I) | 🟩 Easy | `Python` | 2026-10-15 |
 | 3498 | [Reverse Degree of a String](problems/3498-Reverse-Degree-of-a-String) | 🟩 Easy | `Python` | 2026-09-20 |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](problems/3550-Smallest-Index-With-Digit-Sum-Equal-to-Index) | 🟩 Easy | `Python` | 2026-09-24 |
+| 3959 | [Check Good Integer](problems/3959-Check-Good-Integer) | 🟩 Easy | `Python` | 2026-10-28 |
 | 4030 | [Check ASCII Palindromic](problems/4030-Check-ASCII-Palindromic) | 🟩 Easy | `Python` | 2026-09-29 |
 
 ---
