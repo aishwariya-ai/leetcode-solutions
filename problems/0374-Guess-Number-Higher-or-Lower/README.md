@@ -2,7 +2,7 @@
 
 # 374. Guess Number Higher or Lower
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-Python-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--10--28-605d5d?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-Python-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-3-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--10--28-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
 [![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Binary Search, Interactive — best runtime 17 ms (Beats 42%), best memory 12.3 MB (Beats 85%)" src="panel-dark.svg">
+  <img alt="Topics: Binary Search, Interactive — best runtime 17 ms (Beats 42%), best memory 11.8 MB (Beats 100%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -24,9 +24,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | first try |
+| **Attempts** | 2 before accepted |
 | **Time to solve** | 8 min |
-| **Verdicts** | ✅ Accepted |
+| **Verdicts** | ✅ Accepted → ✅ Accepted |
 
 ---
 
@@ -36,12 +36,13 @@ _No notes yet._
 
 ---
 
-### SOLUTIONS (2)
+### SOLUTIONS (3)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
 | 1 | [sol1.py](./sol1.py) | `Python` | 2026-10-28 |
-| 2 | [sol2.py](./sol2.py) | `Python` | 2026-10-28 ← **latest** |
+| 2 | [sol2.py](./sol2.py) | `Python` | 2026-10-28 |
+| 3 | [sol3.py](./sol3.py) | `Python` | 2026-10-28 ← **latest** |
 
 ---
 
