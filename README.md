@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-44%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-38%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-45%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-39%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -43,7 +43,7 @@
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](problems/1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary) | 🟩 Easy | `Python` | 2026-10-28 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 38 solved</summary>
+<summary><strong>🟩 Easy</strong> — 39 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -52,6 +52,7 @@
 | 182 | [Duplicate Emails](problems/0182-Duplicate-Emails) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 231 | [Power of Two](problems/0231-Power-of-Two) | 🟩 Easy | `Python` | 2026-09-21 |
 | 263 | [Ugly Number](problems/0263-Ugly-Number) | 🟩 Easy | `Python` | 2026-09-21 |
+| 278 | [First Bad Version](problems/0278-First-Bad-Version) | 🟩 Easy | `Python` | 2026-10-28 |
 | 342 | [Power of Four](problems/0342-Power-of-Four) | 🟩 Easy | `Python` | 2026-09-22 |
 | 349 | [Intersection of Two Arrays](problems/0349-Intersection-of-Two-Arrays) | 🟩 Easy | `Python` | 2026-10-28 |
 | 374 | [Guess Number Higher or Lower](problems/0374-Guess-Number-Higher-or-Lower) | 🟩 Easy | `Python` | 2026-10-28 |
