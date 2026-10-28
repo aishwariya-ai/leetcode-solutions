@@ -2,7 +2,7 @@
 
 # 3959. Check Good Integer
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-Python-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--10--28-605d5d?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-Python-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-3-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--10--28-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
 [![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/check-good-integer/)
 
@@ -20,8 +20,6 @@
 
 </div>
 
-> **New personal best** — Runtime improved on this submission.
-
 ### HOW IT WENT
 
 | | |
@@ -38,12 +36,13 @@ _No notes yet._
 
 ---
 
-### SOLUTIONS (2)
+### SOLUTIONS (3)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
 | 1 | [sol1.py](./sol1.py) | `Python` | 2026-10-28 |
-| 2 | [sol2.py](./sol2.py) | `Python` | 2026-10-28 ← **latest** |
+| 2 | [sol2.py](./sol2.py) | `Python` | 2026-10-28 |
+| 3 | [sol3.py](./sol3.py) | `Python` | 2026-10-28 ← **latest** |
 
 ---
 
