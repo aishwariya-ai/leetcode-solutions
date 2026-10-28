@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-47%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-41%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-48%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-42%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -43,7 +43,7 @@
 | 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `Python` | 2026-10-28 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 41 solved</summary>
+<summary><strong>🟩 Easy</strong> — 42 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -70,6 +70,7 @@
 | 1287 | [Element Appearing More Than 25% In Sorted Array](problems/1287-Element-Appearing-More-Than-25-In-Sorted-Array) | 🟩 Easy | `Python` | 2026-10-28 |
 | 1346 | [Check If N and Its Double Exist](problems/1346-Check-If-N-and-Its-Double-Exist) | 🟩 Easy | `Python` | 2026-09-28 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](problems/1351-Count-Negative-Numbers-in-a-Sorted-Matrix) | 🟩 Easy | `Python` | 2026-09-27 |
+| 1464 | [Maximum Product of Two Elements in an Array](problems/1464-Maximum-Product-of-Two-Elements-in-an-Array) | 🟩 Easy | `Python` | 2026-10-28 |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](problems/1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary) | 🟩 Easy | `Python` | 2026-10-28 |
 | 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `Python` | 2026-09-18 |
 | 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `Python` | 2026-10-28 |
