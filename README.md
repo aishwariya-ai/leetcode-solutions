@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-46%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-40%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-47%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-41%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -43,12 +43,13 @@
 | 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `Python` | 2026-10-28 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 40 solved</summary>
+<summary><strong>🟩 Easy</strong> — 41 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Python` | 2026-10-01 |
 | 69 | [Sqrt(x)](problems/0069-Sqrtx) | 🟩 Easy | `Python` | 2026-09-22 |
+| 181 | [Employees Earning More Than Their Managers](problems/0181-Employees-Earning-More-Than-Their-Managers) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 182 | [Duplicate Emails](problems/0182-Duplicate-Emails) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 231 | [Power of Two](problems/0231-Power-of-Two) | 🟩 Easy | `Python` | 2026-09-21 |
 | 263 | [Ugly Number](problems/0263-Ugly-Number) | 🟩 Easy | `Python` | 2026-09-21 |
