@@ -15,20 +15,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Array, Binary Search, Sorting — best runtime 1 ms (Beats 48%), best memory 12.3 MB (Beats 89%)" src="panel-dark.svg">
+  <img alt="Topics: Array, Binary Search, Sorting — best runtime 0 ms (Beats 100%), best memory 12.2 MB (Beats 89%)" src="panel-dark.svg">
 </picture>
 
 </div>
-
-> **New personal best** — Runtime improved on this submission.
 
 ### HOW IT WENT
 
 | | |
 |:--|:--|
-| **Attempts** | 2 before accepted |
-| **Time to solve** | 3 min |
-| **Verdicts** | ✅ Accepted → ✅ Accepted |
+| **Attempts** | 3 before accepted |
+| **Time to solve** | 7 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted |
 
 ---
 
