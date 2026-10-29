@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-48%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-42%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-49%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-43%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 183 | [Customers Who Never Order](problems/0183-Customers-Who-Never-Order) | 🟩 Easy | `MySQL` | 2026-10-29 |
 | 3959 | [Check Good Integer](problems/3959-Check-Good-Integer) | 🟩 Easy | `Python` | 2026-10-28 |
 | 3863 | [Minimum Operations to Sort a String](problems/3863-Minimum-Operations-to-Sort-a-String) | 🟧 Medium | `Python` | 2026-10-28 |
 | 3340 | [Check Balanced String](problems/3340-Check-Balanced-String) | 🟩 Easy | `Python` | 2026-10-28 |
@@ -40,10 +41,9 @@
 | 2299 | [Strong Password Checker II](problems/2299-Strong-Password-Checker-II) | 🟩 Easy | `Python` | 2026-10-28 |
 | 2089 | [Find Target Indices After Sorting Array](problems/2089-Find-Target-Indices-After-Sorting-Array) | 🟩 Easy | `Python` | 2026-10-28 |
 | 1812 | [Determine Color of a Chessboard Square](problems/1812-Determine-Color-of-a-Chessboard-Square) | 🟩 Easy | `Python` | 2026-10-28 |
-| 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `Python` | 2026-10-28 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 42 solved</summary>
+<summary><strong>🟩 Easy</strong> — 43 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -51,6 +51,7 @@
 | 69 | [Sqrt(x)](problems/0069-Sqrtx) | 🟩 Easy | `Python` | 2026-09-22 |
 | 181 | [Employees Earning More Than Their Managers](problems/0181-Employees-Earning-More-Than-Their-Managers) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 182 | [Duplicate Emails](problems/0182-Duplicate-Emails) | 🟩 Easy | `MySQL` | 2026-10-28 |
+| 183 | [Customers Who Never Order](problems/0183-Customers-Who-Never-Order) | 🟩 Easy | `MySQL` | 2026-10-29 |
 | 231 | [Power of Two](problems/0231-Power-of-Two) | 🟩 Easy | `Python` | 2026-09-21 |
 | 263 | [Ugly Number](problems/0263-Ugly-Number) | 🟩 Easy | `Python` | 2026-09-21 |
 | 278 | [First Bad Version](problems/0278-First-Bad-Version) | 🟩 Easy | `Python` | 2026-10-28 |
