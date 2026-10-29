@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793248664898,
+  "updatedAt": 1793248766213,
   "devices": {
     "fc6e9e10-a161-44ac-ba71-48299e24a1d5": {
-      "lastSeen": 1793248664344
+      "lastSeen": 1793248765322
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Greedy"
       ],
       "title": "Container With Most Water",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "15": {
       "attempts": 2,
@@ -45,7 +45,7 @@
         "Sorting"
       ],
       "title": "3Sum",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "20": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parentheses",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "69": {
       "attempts": 1,
@@ -85,7 +85,7 @@
         "Newton's Method"
       ],
       "title": "Sqrt(x)",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "74": {
       "attempts": 3,
@@ -105,7 +105,7 @@
         "Matrix"
       ],
       "title": "Search a 2D Matrix",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "181": {
       "attempts": 1,
@@ -123,7 +123,7 @@
         "Database"
       ],
       "title": "Employees Earning More Than Their Managers",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "182": {
       "attempts": 1,
@@ -141,7 +141,25 @@
         "Database"
       ],
       "title": "Duplicate Emails",
-      "at": 1793248664344
+      "at": 1793248765322
+    },
+    "183": {
+      "attempts": 1,
+      "bestMemory": "0B (Beats 100%)",
+      "bestRuntime": "931 ms (Beats 7%)",
+      "date": "2026-10-29",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-29",
+      "folderName": "0183-Customers-Who-Never-Order",
+      "language": "MySQL",
+      "number": 183,
+      "slug": "customers-who-never-order",
+      "solutionCount": 1,
+      "tags": [
+        "Database"
+      ],
+      "title": "Customers Who Never Order",
+      "at": 1793248765322
     },
     "231": {
       "attempts": 2,
@@ -161,7 +179,7 @@
         "Recursion"
       ],
       "title": "Power of Two",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "263": {
       "attempts": 1,
@@ -179,7 +197,7 @@
         "Math"
       ],
       "title": "Ugly Number",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "278": {
       "attempts": 1,
@@ -198,7 +216,7 @@
         "Interactive"
       ],
       "title": "First Bad Version",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "342": {
       "attempts": 4,
@@ -218,7 +236,7 @@
         "Recursion"
       ],
       "title": "Power of Four",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "349": {
       "attempts": 2,
@@ -240,7 +258,7 @@
         "Sorting"
       ],
       "title": "Intersection of Two Arrays",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "374": {
       "attempts": 2,
@@ -259,7 +277,7 @@
         "Interactive"
       ],
       "title": "Guess Number Higher or Lower",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "383": {
       "attempts": 4,
@@ -279,7 +297,7 @@
         "Counting"
       ],
       "title": "Ransom Note",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "389": {
       "attempts": 3,
@@ -300,7 +318,7 @@
         "Sorting"
       ],
       "title": "Find the Difference",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "507": {
       "attempts": 2,
@@ -318,7 +336,7 @@
         "Math"
       ],
       "title": "Perfect Number",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "509": {
       "attempts": 1,
@@ -339,7 +357,7 @@
         "Memoization"
       ],
       "title": "Fibonacci Number",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "594": {
       "attempts": 1,
@@ -361,7 +379,7 @@
         "Counting"
       ],
       "title": "Longest Harmonious Subsequence",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "674": {
       "attempts": 4,
@@ -379,7 +397,7 @@
         "Array"
       ],
       "title": "Longest Continuous Increasing Subsequence",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "771": {
       "attempts": 3,
@@ -398,7 +416,7 @@
         "String"
       ],
       "title": "Jewels and Stones",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1021": {
       "attempts": 1,
@@ -418,7 +436,7 @@
         "Bracket Sequences"
       ],
       "title": "Remove Outermost Parentheses",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1108": {
       "attempts": 1,
@@ -436,7 +454,7 @@
         "String"
       ],
       "title": "Defanging an IP Address",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1281": {
       "attempts": 2,
@@ -454,7 +472,7 @@
         "Math"
       ],
       "title": "Subtract the Product and Sum of Digits of an Integer",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1287": {
       "attempts": 2,
@@ -472,7 +490,7 @@
         "Array"
       ],
       "title": "Element Appearing More Than 25% In Sorted Array",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1346": {
       "attempts": 2,
@@ -494,7 +512,7 @@
         "Sorting"
       ],
       "title": "Check If N and Its Double Exist",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1351": {
       "attempts": 1,
@@ -514,7 +532,7 @@
         "Matrix"
       ],
       "title": "Count Negative Numbers in a Sorted Matrix",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1464": {
       "attempts": 1,
@@ -534,7 +552,7 @@
         "Heap (Priority Queue)"
       ],
       "title": "Maximum Product of Two Elements in an Array",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1491": {
       "attempts": 5,
@@ -553,7 +571,7 @@
         "Sorting"
       ],
       "title": "Average Salary Excluding the Minimum and Maximum Salary",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1512": {
       "attempts": 1,
@@ -574,7 +592,7 @@
         "Counting"
       ],
       "title": "Number of Good Pairs",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1572": {
       "attempts": 1,
@@ -593,7 +611,7 @@
         "Matrix"
       ],
       "title": "Matrix Diagonal Sum",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1614": {
       "attempts": 1,
@@ -613,7 +631,7 @@
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of the Parentheses",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1678": {
       "attempts": 1,
@@ -631,7 +649,7 @@
         "String"
       ],
       "title": "Goal Parser Interpretation",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1688": {
       "attempts": 1,
@@ -650,7 +668,7 @@
         "Simulation"
       ],
       "title": "Count of Matches in Tournament",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "1812": {
       "attempts": 2,
@@ -669,7 +687,7 @@
         "String"
       ],
       "title": "Determine Color of a Chessboard Square",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "2089": {
       "attempts": 2,
@@ -689,7 +707,7 @@
         "Sorting"
       ],
       "title": "Find Target Indices After Sorting Array",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "2299": {
       "attempts": 2,
@@ -707,7 +725,7 @@
         "String"
       ],
       "title": "Strong Password Checker II",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "2396": {
       "attempts": 1,
@@ -727,7 +745,7 @@
         "Brainteaser"
       ],
       "title": "Strictly Palindromic Number",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "2441": {
       "attempts": 1,
@@ -748,7 +766,7 @@
         "Sorting"
       ],
       "title": "Largest Positive Integer That Exists With Its Negative",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "2486": {
       "attempts": 2,
@@ -768,7 +786,7 @@
         "Greedy"
       ],
       "title": "Append Characters to String to Make Subsequence",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "2913": {
       "attempts": 1,
@@ -789,7 +807,7 @@
         "Segment Tree"
       ],
       "title": "Subarrays Distinct Element Sum of Squares I",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "3024": {
       "attempts": 4,
@@ -810,7 +828,7 @@
         "Polygons"
       ],
       "title": "Type of Triangle",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "3274": {
       "attempts": 1,
@@ -829,7 +847,7 @@
         "String"
       ],
       "title": "Check if Two Chessboard Squares Have the Same Color",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "3340": {
       "attempts": 1,
@@ -847,7 +865,7 @@
         "String"
       ],
       "title": "Check Balanced String",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "3498": {
       "attempts": 1,
@@ -866,7 +884,7 @@
         "Simulation"
       ],
       "title": "Reverse Degree of a String",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "3550": {
       "attempts": 2,
@@ -885,7 +903,7 @@
         "Math"
       ],
       "title": "Smallest Index With Digit Sum Equal to Index",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "3863": {
       "attempts": 19,
@@ -903,7 +921,7 @@
         "String"
       ],
       "title": "Minimum Operations to Sort a String",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "3959": {
       "attempts": 2,
@@ -922,7 +940,7 @@
         "Simulation"
       ],
       "title": "Check Good Integer",
-      "at": 1793248664344
+      "at": 1793248765322
     },
     "4030": {
       "attempts": 1,
@@ -942,7 +960,7 @@
         "Bit Manipulation"
       ],
       "title": "Check ASCII Palindromic",
-      "at": 1793248664344
+      "at": 1793248765322
     }
   },
   "achievements": {
@@ -972,11 +990,12 @@
     "2026-10-14",
     "2026-10-15",
     "2026-10-16",
-    "2026-10-28"
+    "2026-10-28",
+    "2026-10-29"
   ],
   "bests": {
     "longestStreak": 5,
-    "pushes": 66
+    "pushes": 67
   },
   "identity": {
     "installId": "b0d00a92-a15a-4bba-83c1-f36709670b53",
