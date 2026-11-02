@@ -31,7 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
-| 747 | [Largest Number At Least Twice of Others](problems/0747-Largest-Number-At-Least-Twice-of-Others) | 🟩 Easy | `Python` | 2026-10-30 |
+| 747 | [Largest Number At Least Twice of Others](problems/0747-Largest-Number-At-Least-Twice-of-Others) | 🟩 Easy | `Python` | 2026-11-02 |
 | 183 | [Customers Who Never Order](problems/0183-Customers-Who-Never-Order) | 🟩 Easy | `MySQL` | 2026-10-29 |
 | 171 | [Excel Sheet Column Number](problems/0171-Excel-Sheet-Column-Number) | 🟩 Easy | `Python` | 2026-10-29 |
 | 168 | [Excel Sheet Column Title](problems/0168-Excel-Sheet-Column-Title) | 🟩 Easy | `Python` | 2026-10-29 |
@@ -66,7 +66,7 @@
 | 509 | [Fibonacci Number](problems/0509-Fibonacci-Number) | 🟩 Easy | `Python` | 2026-10-16 |
 | 594 | [Longest Harmonious Subsequence](problems/0594-Longest-Harmonious-Subsequence) | 🟩 Easy | `Python` | 2026-09-28 |
 | 674 | [Longest Continuous Increasing Subsequence](problems/0674-Longest-Continuous-Increasing-Subsequence) | 🟩 Easy | `Python` | 2026-09-28 |
-| 747 | [Largest Number At Least Twice of Others](problems/0747-Largest-Number-At-Least-Twice-of-Others) | 🟩 Easy | `Python` | 2026-10-30 |
+| 747 | [Largest Number At Least Twice of Others](problems/0747-Largest-Number-At-Least-Twice-of-Others) | 🟩 Easy | `Python` | 2026-11-02 |
 | 771 | [Jewels and Stones](problems/0771-Jewels-and-Stones) | 🟩 Easy | `Python` | 2026-09-17 |
 | 1021 | [Remove Outermost Parentheses](problems/1021-Remove-Outermost-Parentheses) | 🟩 Easy | `Python` | 2026-10-08 |
 | 1108 | [Defanging an IP Address](problems/1108-Defanging-an-IP-Address) | 🟩 Easy | `Python` | 2026-09-18 |
