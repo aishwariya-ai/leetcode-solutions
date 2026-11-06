@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-52%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-46%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-53%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-47%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 1207 | [Unique Number of Occurrences](problems/1207-Unique-Number-of-Occurrences) | 🟩 Easy | `Python` | 2026-11-06 |
 | 747 | [Largest Number At Least Twice of Others](problems/0747-Largest-Number-At-Least-Twice-of-Others) | 🟩 Easy | `Python` | 2026-11-02 |
 | 183 | [Customers Who Never Order](problems/0183-Customers-Who-Never-Order) | 🟩 Easy | `MySQL` | 2026-10-29 |
 | 171 | [Excel Sheet Column Number](problems/0171-Excel-Sheet-Column-Number) | 🟩 Easy | `Python` | 2026-10-29 |
@@ -40,10 +41,9 @@
 | 3340 | [Check Balanced String](problems/3340-Check-Balanced-String) | 🟩 Easy | `Python` | 2026-10-28 |
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](problems/3274-Check-if-Two-Chessboard-Squares-Have-the-Same-Color) | 🟩 Easy | `Python` | 2026-10-28 |
 | 3024 | [Type of Triangle](problems/3024-Type-of-Triangle) | 🟩 Easy | `Python` | 2026-10-28 |
-| 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `Python` | 2026-10-28 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 46 solved</summary>
+<summary><strong>🟩 Easy</strong> — 47 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -70,6 +70,7 @@
 | 771 | [Jewels and Stones](problems/0771-Jewels-and-Stones) | 🟩 Easy | `Python` | 2026-09-17 |
 | 1021 | [Remove Outermost Parentheses](problems/1021-Remove-Outermost-Parentheses) | 🟩 Easy | `Python` | 2026-10-08 |
 | 1108 | [Defanging an IP Address](problems/1108-Defanging-an-IP-Address) | 🟩 Easy | `Python` | 2026-09-18 |
+| 1207 | [Unique Number of Occurrences](problems/1207-Unique-Number-of-Occurrences) | 🟩 Easy | `Python` | 2026-11-06 |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](problems/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer) | 🟩 Easy | `Python` | 2026-09-18 |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](problems/1287-Element-Appearing-More-Than-25-In-Sorted-Array) | 🟩 Easy | `Python` | 2026-10-28 |
 | 1346 | [Check If N and Its Double Exist](problems/1346-Check-If-N-and-Its-Double-Exist) | 🟩 Easy | `Python` | 2026-09-28 |
