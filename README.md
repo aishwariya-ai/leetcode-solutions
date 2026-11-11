@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Python` | 2026-11-11 |
 | 1207 | [Unique Number of Occurrences](problems/1207-Unique-Number-of-Occurrences) | 🟩 Easy | `Python` | 2026-11-06 |
 | 747 | [Largest Number At Least Twice of Others](problems/0747-Largest-Number-At-Least-Twice-of-Others) | 🟩 Easy | `Python` | 2026-11-02 |
 | 183 | [Customers Who Never Order](problems/0183-Customers-Who-Never-Order) | 🟩 Easy | `MySQL` | 2026-10-29 |
@@ -40,14 +41,13 @@
 | 3863 | [Minimum Operations to Sort a String](problems/3863-Minimum-Operations-to-Sort-a-String) | 🟧 Medium | `Python` | 2026-10-28 |
 | 3340 | [Check Balanced String](problems/3340-Check-Balanced-String) | 🟩 Easy | `Python` | 2026-10-28 |
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](problems/3274-Check-if-Two-Chessboard-Squares-Have-the-Same-Color) | 🟩 Easy | `Python` | 2026-10-28 |
-| 3024 | [Type of Triangle](problems/3024-Type-of-Triangle) | 🟩 Easy | `Python` | 2026-10-28 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 47 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
-| 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Python` | 2026-10-01 |
+| 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Python` | 2026-11-11 |
 | 69 | [Sqrt(x)](problems/0069-Sqrtx) | 🟩 Easy | `Python` | 2026-09-22 |
 | 168 | [Excel Sheet Column Title](problems/0168-Excel-Sheet-Column-Title) | 🟩 Easy | `Python` | 2026-10-29 |
 | 171 | [Excel Sheet Column Number](problems/0171-Excel-Sheet-Column-Number) | 🟩 Easy | `Python` | 2026-10-29 |
