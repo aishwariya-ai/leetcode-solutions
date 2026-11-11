@@ -2,7 +2,7 @@
 
 # 20. Valid Parentheses
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-Python-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-1-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--10--01-605d5d?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-Python-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--11--11-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
 [![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/valid-parentheses/)
 
@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: String, Stack, Bracket Sequences — best runtime 7 ms (Beats 14%), best memory 12.4 MB (Beats 73%)" src="panel-dark.svg">
+  <img alt="Topics: String, Stack, Bracket Sequences — best runtime 1 ms (Beats 47%), best memory 19.1 MB (Beats 84%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -26,9 +26,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | first try |
-| **Time to solve** | 6 min |
-| **Verdicts** | ✅ Accepted |
+| **Attempts** | 2 before accepted |
+| **Time to solve** | 981 h 46 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted |
 
 ---
 
@@ -38,11 +38,12 @@ _No notes yet._
 
 ---
 
-### SOLUTIONS (1)
+### SOLUTIONS (2)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
-| 1 | [sol1.py](./sol1.py) | `Python` | 2026-10-01 ← **latest** |
+| 1 | [sol1.py](./sol1.py) | `Python` | 2026-11-11 |
+| 2 | [sol2.py](./sol2.py) | `Python` | 2026-11-11 ← **latest** |
 
 ---
 
