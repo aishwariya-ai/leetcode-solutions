@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-54%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-47%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-7%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-55%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-48%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-7%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Python` | 2026-11-12 |
 | 81 | [Search in Rotated Sorted Array II](problems/0081-Search-in-Rotated-Sorted-Array-II) | 🟧 Medium | `Python` | 2026-11-11 |
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Python` | 2026-11-11 |
 | 1207 | [Unique Number of Occurrences](problems/1207-Unique-Number-of-Occurrences) | 🟩 Easy | `Python` | 2026-11-06 |
@@ -40,10 +41,9 @@
 | 168 | [Excel Sheet Column Title](problems/0168-Excel-Sheet-Column-Title) | 🟩 Easy | `Python` | 2026-10-29 |
 | 3959 | [Check Good Integer](problems/3959-Check-Good-Integer) | 🟩 Easy | `Python` | 2026-10-28 |
 | 3863 | [Minimum Operations to Sort a String](problems/3863-Minimum-Operations-to-Sort-a-String) | 🟧 Medium | `Python` | 2026-10-28 |
-| 3340 | [Check Balanced String](problems/3340-Check-Balanced-String) | 🟩 Easy | `Python` | 2026-10-28 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 47 solved</summary>
+<summary><strong>🟩 Easy</strong> — 48 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -88,6 +88,7 @@
 | 2441 | [Largest Positive Integer That Exists With Its Negative](problems/2441-Largest-Positive-Integer-That-Exists-With-Its-Negative) | 🟩 Easy | `Python` | 2026-10-12 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](problems/2913-Subarrays-Distinct-Element-Sum-of-Squares-I) | 🟩 Easy | `Python` | 2026-10-15 |
 | 3024 | [Type of Triangle](problems/3024-Type-of-Triangle) | 🟩 Easy | `Python` | 2026-10-28 |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Python` | 2026-11-12 |
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](problems/3274-Check-if-Two-Chessboard-Squares-Have-the-Same-Color) | 🟩 Easy | `Python` | 2026-10-28 |
 | 3340 | [Check Balanced String](problems/3340-Check-Balanced-String) | 🟩 Easy | `Python` | 2026-10-28 |
 | 3498 | [Reverse Degree of a String](problems/3498-Reverse-Degree-of-a-String) | 🟩 Easy | `Python` | 2026-09-20 |
