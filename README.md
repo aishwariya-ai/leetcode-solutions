@@ -31,7 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
-| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Python` | 2026-11-12 |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Python` | 2026-11-13 |
 | 81 | [Search in Rotated Sorted Array II](problems/0081-Search-in-Rotated-Sorted-Array-II) | 🟧 Medium | `Python` | 2026-11-11 |
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Python` | 2026-11-11 |
 | 1207 | [Unique Number of Occurrences](problems/1207-Unique-Number-of-Occurrences) | 🟩 Easy | `Python` | 2026-11-06 |
@@ -88,7 +88,7 @@
 | 2441 | [Largest Positive Integer That Exists With Its Negative](problems/2441-Largest-Positive-Integer-That-Exists-With-Its-Negative) | 🟩 Easy | `Python` | 2026-10-12 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](problems/2913-Subarrays-Distinct-Element-Sum-of-Squares-I) | 🟩 Easy | `Python` | 2026-10-15 |
 | 3024 | [Type of Triangle](problems/3024-Type-of-Triangle) | 🟩 Easy | `Python` | 2026-10-28 |
-| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Python` | 2026-11-12 |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Python` | 2026-11-13 |
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](problems/3274-Check-if-Two-Chessboard-Squares-Have-the-Same-Color) | 🟩 Easy | `Python` | 2026-10-28 |
 | 3340 | [Check Balanced String](problems/3340-Check-Balanced-String) | 🟩 Easy | `Python` | 2026-10-28 |
 | 3498 | [Reverse Degree of a String](problems/3498-Reverse-Degree-of-a-String) | 🟩 Easy | `Python` | 2026-09-20 |
