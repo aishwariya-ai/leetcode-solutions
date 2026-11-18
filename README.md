@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-55%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-48%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-7%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-56%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-48%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-8%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](problems/2914-Minimum-Number-of-Changes-to-Make-Binary-String-Beautiful) | 🟧 Medium | `Python` | 2026-11-18 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Python` | 2026-11-13 |
 | 81 | [Search in Rotated Sorted Array II](problems/0081-Search-in-Rotated-Sorted-Array-II) | 🟧 Medium | `Python` | 2026-11-11 |
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Python` | 2026-11-11 |
@@ -40,7 +41,6 @@
 | 171 | [Excel Sheet Column Number](problems/0171-Excel-Sheet-Column-Number) | 🟩 Easy | `Python` | 2026-10-29 |
 | 168 | [Excel Sheet Column Title](problems/0168-Excel-Sheet-Column-Title) | 🟩 Easy | `Python` | 2026-10-29 |
 | 3959 | [Check Good Integer](problems/3959-Check-Good-Integer) | 🟩 Easy | `Python` | 2026-10-28 |
-| 3863 | [Minimum Operations to Sort a String](problems/3863-Minimum-Operations-to-Sort-a-String) | 🟧 Medium | `Python` | 2026-10-28 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 48 solved</summary>
@@ -99,7 +99,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 7 solved</summary>
+<summary><strong>🟧 Medium</strong> — 8 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -109,6 +109,7 @@
 | 81 | [Search in Rotated Sorted Array II](problems/0081-Search-in-Rotated-Sorted-Array-II) | 🟧 Medium | `Python` | 2026-11-11 |
 | 2396 | [Strictly Palindromic Number](problems/2396-Strictly-Palindromic-Number) | 🟧 Medium | `Python` | 2026-10-28 |
 | 2486 | [Append Characters to String to Make Subsequence](problems/2486-Append-Characters-to-String-to-Make-Subsequence) | 🟧 Medium | `Python` | 2026-10-14 |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](problems/2914-Minimum-Number-of-Changes-to-Make-Binary-String-Beautiful) | 🟧 Medium | `Python` | 2026-11-18 |
 | 3863 | [Minimum Operations to Sort a String](problems/3863-Minimum-Operations-to-Sort-a-String) | 🟧 Medium | `Python` | 2026-10-28 |
 
 </details>
