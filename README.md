@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-57%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-49%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-8%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-58%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-50%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-8%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 3978 | [Unique Middle Element](problems/3978-Unique-Middle-Element) | 🟩 Easy | `Python` | 2026-11-19 |
+| 3866 | [First Unique Even Element](problems/3866-First-Unique-Even-Element) | 🟩 Easy | `Python` | 2026-11-19 |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](problems/2914-Minimum-Number-of-Changes-to-Make-Binary-String-Beautiful) | 🟧 Medium | `Python` | 2026-11-18 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Python` | 2026-11-13 |
 | 81 | [Search in Rotated Sorted Array II](problems/0081-Search-in-Rotated-Sorted-Array-II) | 🟧 Medium | `Python` | 2026-11-11 |
@@ -40,10 +41,9 @@
 | 747 | [Largest Number At Least Twice of Others](problems/0747-Largest-Number-At-Least-Twice-of-Others) | 🟩 Easy | `Python` | 2026-11-02 |
 | 183 | [Customers Who Never Order](problems/0183-Customers-Who-Never-Order) | 🟩 Easy | `MySQL` | 2026-10-29 |
 | 171 | [Excel Sheet Column Number](problems/0171-Excel-Sheet-Column-Number) | 🟩 Easy | `Python` | 2026-10-29 |
-| 168 | [Excel Sheet Column Title](problems/0168-Excel-Sheet-Column-Title) | 🟩 Easy | `Python` | 2026-10-29 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 49 solved</summary>
+<summary><strong>🟩 Easy</strong> — 50 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -93,6 +93,7 @@
 | 3340 | [Check Balanced String](problems/3340-Check-Balanced-String) | 🟩 Easy | `Python` | 2026-10-28 |
 | 3498 | [Reverse Degree of a String](problems/3498-Reverse-Degree-of-a-String) | 🟩 Easy | `Python` | 2026-09-20 |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](problems/3550-Smallest-Index-With-Digit-Sum-Equal-to-Index) | 🟩 Easy | `Python` | 2026-09-24 |
+| 3866 | [First Unique Even Element](problems/3866-First-Unique-Even-Element) | 🟩 Easy | `Python` | 2026-11-19 |
 | 3959 | [Check Good Integer](problems/3959-Check-Good-Integer) | 🟩 Easy | `Python` | 2026-10-28 |
 | 3978 | [Unique Middle Element](problems/3978-Unique-Middle-Element) | 🟩 Easy | `Python` | 2026-11-19 |
 | 4030 | [Check ASCII Palindromic](problems/4030-Check-ASCII-Palindromic) | 🟩 Easy | `Python` | 2026-09-29 |
