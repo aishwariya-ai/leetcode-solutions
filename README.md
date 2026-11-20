@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-58%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-50%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-8%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-59%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-51%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-8%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 876 | [Middle of the Linked List](problems/0876-Middle-of-the-Linked-List) | 🟩 Easy | `Python` | 2026-11-20 |
 | 3978 | [Unique Middle Element](problems/3978-Unique-Middle-Element) | 🟩 Easy | `Python` | 2026-11-19 |
 | 3866 | [First Unique Even Element](problems/3866-First-Unique-Even-Element) | 🟩 Easy | `Python` | 2026-11-19 |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](problems/2914-Minimum-Number-of-Changes-to-Make-Binary-String-Beautiful) | 🟧 Medium | `Python` | 2026-11-18 |
@@ -40,10 +41,9 @@
 | 1207 | [Unique Number of Occurrences](problems/1207-Unique-Number-of-Occurrences) | 🟩 Easy | `Python` | 2026-11-06 |
 | 747 | [Largest Number At Least Twice of Others](problems/0747-Largest-Number-At-Least-Twice-of-Others) | 🟩 Easy | `Python` | 2026-11-02 |
 | 183 | [Customers Who Never Order](problems/0183-Customers-Who-Never-Order) | 🟩 Easy | `MySQL` | 2026-10-29 |
-| 171 | [Excel Sheet Column Number](problems/0171-Excel-Sheet-Column-Number) | 🟩 Easy | `Python` | 2026-10-29 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 50 solved</summary>
+<summary><strong>🟩 Easy</strong> — 51 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -68,6 +68,7 @@
 | 674 | [Longest Continuous Increasing Subsequence](problems/0674-Longest-Continuous-Increasing-Subsequence) | 🟩 Easy | `Python` | 2026-09-28 |
 | 747 | [Largest Number At Least Twice of Others](problems/0747-Largest-Number-At-Least-Twice-of-Others) | 🟩 Easy | `Python` | 2026-11-02 |
 | 771 | [Jewels and Stones](problems/0771-Jewels-and-Stones) | 🟩 Easy | `Python` | 2026-09-17 |
+| 876 | [Middle of the Linked List](problems/0876-Middle-of-the-Linked-List) | 🟩 Easy | `Python` | 2026-11-20 |
 | 1021 | [Remove Outermost Parentheses](problems/1021-Remove-Outermost-Parentheses) | 🟩 Easy | `Python` | 2026-10-08 |
 | 1108 | [Defanging an IP Address](problems/1108-Defanging-an-IP-Address) | 🟩 Easy | `Python` | 2026-09-18 |
 | 1207 | [Unique Number of Occurrences](problems/1207-Unique-Number-of-Occurrences) | 🟩 Easy | `Python` | 2026-11-06 |
