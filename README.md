@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-60%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-52%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-8%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-61%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-53%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-8%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 234 | [Palindrome Linked List](problems/0234-Palindrome-Linked-List) | 🟩 Easy | `Python` | 2026-11-24 |
 | 206 | [Reverse Linked List](problems/0206-Reverse-Linked-List) | 🟩 Easy | `Python` | 2026-11-23 |
 | 876 | [Middle of the Linked List](problems/0876-Middle-of-the-Linked-List) | 🟩 Easy | `Python` | 2026-11-20 |
 | 3978 | [Unique Middle Element](problems/3978-Unique-Middle-Element) | 🟩 Easy | `Python` | 2026-11-19 |
@@ -40,10 +41,9 @@
 | 81 | [Search in Rotated Sorted Array II](problems/0081-Search-in-Rotated-Sorted-Array-II) | 🟧 Medium | `Python` | 2026-11-11 |
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Python` | 2026-11-11 |
 | 1207 | [Unique Number of Occurrences](problems/1207-Unique-Number-of-Occurrences) | 🟩 Easy | `Python` | 2026-11-06 |
-| 747 | [Largest Number At Least Twice of Others](problems/0747-Largest-Number-At-Least-Twice-of-Others) | 🟩 Easy | `Python` | 2026-11-02 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 52 solved</summary>
+<summary><strong>🟩 Easy</strong> — 53 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -56,6 +56,7 @@
 | 183 | [Customers Who Never Order](problems/0183-Customers-Who-Never-Order) | 🟩 Easy | `MySQL` | 2026-10-29 |
 | 206 | [Reverse Linked List](problems/0206-Reverse-Linked-List) | 🟩 Easy | `Python` | 2026-11-23 |
 | 231 | [Power of Two](problems/0231-Power-of-Two) | 🟩 Easy | `Python` | 2026-09-21 |
+| 234 | [Palindrome Linked List](problems/0234-Palindrome-Linked-List) | 🟩 Easy | `Python` | 2026-11-24 |
 | 263 | [Ugly Number](problems/0263-Ugly-Number) | 🟩 Easy | `Python` | 2026-09-21 |
 | 278 | [First Bad Version](problems/0278-First-Bad-Version) | 🟩 Easy | `Python` | 2026-10-28 |
 | 342 | [Power of Four](problems/0342-Power-of-Four) | 🟩 Easy | `Python` | 2026-09-22 |
